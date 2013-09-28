@@ -12,7 +12,7 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 <img src="{{ site.baseurl }}/cn/img/screenshot.jpg"/>
 </div>
 
-最新版下载： [FreePiano 1.8](http://sourceforge.net/projects/freepiano/files/freepiano_1.8.zip)
+最新版下载： [FreePiano 2.0](http://sourceforge.net/projects/freepiano/files/freepiano_2.0.zip)
 
 ## FreePiano有什么特点？
 1. 完全免费的，您不需要购买就可以使用全部的功能。
@@ -22,7 +22,18 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 5. 多套键盘配置可以在演奏中任意切换。
 6. 可将录制的乐曲导出成视频MP4文件。
 
-##2013-06-27  FreePiano 1.8
+## 2013-09-28 FreePiano 2.0
+* 全新的界面，包括标题栏，菜单和设置界面。
+* 新的wasapi独占模式，能够在支持wasapi的系统中获得较低的延迟。
+* 更好的ASIO支持， 现在在ASIO的设置面板中修改属性，Freepiano中的属性也会直接改变。
+* 修正了VSTi音源的兼容性问题， Freepiano现在能正确的加载象牙等音源了。
+* 增加了录音文件回放时的控制功能，可以从任意时间播放。
+* 增加了五线谱记谱功能，选择五线谱界面后弹奏会记下当前弹奏的音符。
+* 增加了一个内置的节拍器。
+* 导出功能修改为插件，允许用户自己实现导出功能。
+* 随机力度功能，可以在当前力度上再叠加一个按键力度。
+
+## 2013-06-27 FreePiano 1.8
 * 支持原始MIDI消息输出，FreePiano内部的所有消息都不再使用MIDI消息。
 * 现在所有的命令都可以正确的支持所有的设置方式，包括同步设置。
 * 支持16个输入通道，每个输入通道都可以映射到一个MIDI输出通道上。

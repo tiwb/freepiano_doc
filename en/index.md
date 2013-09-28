@@ -12,7 +12,7 @@ FreePiano is a opensource software that can let you play music with your compute
 <img src="{{ site.baseurl }}/en/img/screenshot.jpg"/>
 </div>
 
-Download lastest version: [FreePiano 1.8](http://sourceforge.net/projects/freepiano/files/freepiano_1.8.zip)
+Download lastest version: [FreePiano 2.0](http://sourceforge.net/projects/freepiano/files/freepiano_2.0.zip)
 
 ## Features of FreePiano:
 1. Completely free, you do not need to purchase to use all the features.
@@ -22,7 +22,18 @@ Download lastest version: [FreePiano 1.8](http://sourceforge.net/projects/freepi
 5. Multi sets of keyboard layout can be switched anytime during play.
 6. Export your song to mp4 directly.
 
-##2013-06-27  FreePiano 1.8
+## 2013-09-28 FreePiano 2.0
+* New user interface.
+* New Execlusive mode when using WASAPI output.
+* Supports sync confiuation with ASIO driver.
+* Fixed compatibility of VST plug-ins.
+* Can change playback time in playback setting.
+* New music score can remember notes you played when displayed.
+* Adds a metronome.
+* New plug-in architecture, you can implement your own exporter.
+* Random velocity simulation, can add a random velocity when a key is pressed.
+
+## 2013-06-27 FreePiano 1.8
 * Raw MIDI message support, with 'MIDI' command you can send at most 3 hex
   digitals as a midi message. all other script commands are nolonger MIDI
   signals.
@@ -42,7 +53,6 @@ Download lastest version: [FreePiano 1.8](http://sourceforge.net/projects/freepi
 * A new 'WAV' file exportor.
 * New update notification.
 * Fixed a bug that notes will lower an octave when copy group key maps.
-
 
 ## 2013-05-24 FreePiano 1.7
 * Play settings page, can change midi output channel and voice.

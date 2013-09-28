@@ -120,14 +120,14 @@ body > section .grid{
 
 body > footer {
   background: #222;
-  font-size: 16px;
+  font-size: 14px;
   padding-bottom: 5px;
   color: #888;
   margin-top: 40px;
 }
 
 body > footer a {
-  color: #fff;
+  color: #888;
 }
 
 body > footer .align-right p, body > footer img {
