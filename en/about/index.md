@@ -8,11 +8,11 @@ lang: en
 
 FreePiano is an opensource MIDI keyboard software.
 
-At beginning, this soft is made just for myself, I just want a software that can load VSTi instruments, and plays like a piano using computer keyboard.
+In the beginning, this software was made just for myself, I just wanted a program that could load VSTi instruments and play like a piano using my computer keyboard.
 
-After version 1.0, I received lots of suggestions, which makes this software better and better. Thanks to all the suggestions.
+After version 1.0, I have been receiving lots of suggestions, which make this software better and better. Thanks to all the suggestions.
 
-If I could find a similar open source software, maybe I will just make modifications on that software. So FreePiano is opensource. I holp new ideas can be implemented on this software, if it is possible.
+If I could find similar open source software, maybe I will just make modifications on that software. So FreePiano is opensource. I hope new ideas can be implemented in this software, if it is possible.
 
 ## Developers
 
@@ -22,19 +22,19 @@ Li Jia is the earliest developer, he started this project, you can contact him a
 
 ## Suggestions, Questions and BUGS.
 
-And suggestions, or BUGs is welcome, just send an Email to me (Lijia).
+And suggestions, or BUGs is welcome, just send me an Email (Lijia).
 
 
 ## Localization
 
-FreePiano supports Chinese and English currently, there may translate errors in English, If you found any, contact me. If you wish translate the entire software or documents into your languange, Contact me and I will show you how.
+FreePiano currently only supports Chinese and English, there may be translation errors in English, If you found any, contact me. If you wish to translate the entire software or documents into your languange, Contact me and I will show you how.
 
 
 ## Thanks
 
 Thanks again to all suggestions!
 
-And Thanks to all users, some of them have been played computer keyboard music more than 10 years! Your insisted is the power that I make this software better.
+And Thanks to all users, some of them have been playing computer keyboard music more than 10 years! Your insisting is the power that motivates me to make this software better.
 
 ## Opensource libraries
 
