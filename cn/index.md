@@ -12,7 +12,9 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 <img src="{{ site.baseurl }}/cn/img/screenshot.jpg"/>
 </div>
 
-最新版下载： [FreePiano 2.0](http://sourceforge.net/projects/freepiano/files/freepiano_2.0.zip)
+最新版本 Freepiano 2.1.1 ：
+[SourceForge下载](http://sourceforge.net/projects/freepiano/files/freepiano_2.1.1.zip) | 
+[百度网盘下载](http://pan.baidu.com/s/1d3MlV)
 
 ## FreePiano有什么特点？
 1. 完全免费的，您不需要购买就可以使用全部的功能。
@@ -22,7 +24,22 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 5. 多套键盘配置可以在演奏中任意切换。
 6. 可将录制的乐曲导出成视频MP4文件。
 
-## 2013-09-28 FreePiano 2.0
+## 2013-11-18 Freepiano 2.1.1
+* 修复了ASIO输出不能工作的问题。
+* 修复了更新检测失败时程序会崩溃的问题。
+* 修复了英文版中的一个拼写错误。
+
+## 2013-11-01 Freepiano 2.1
+* 新增鼠标锁定命令，可以鼠标当成延音踏板来使用。
+* 添加SF2音源的支持，可以加载sf2综合音源。
+* 添加后台演奏模式，可以在Freepiano主窗口不激活或最小化的状态下演奏。
+* 添加MINI显示模式，可以将主窗口缩小显示。
+* 将移调显示为曲调，并且和五线谱中的曲调同步。
+* 修正了使用MIDI键盘时无法录音的BUG。
+* 修正了输入通道选择后仍然修改原来的通道属性的BUG。
+* 修正了与一些音源不兼容的BUG。
+
+## 2013-09-28 Freepiano 2.0
 * 全新的界面，包括标题栏，菜单和设置界面。
 * 新的wasapi独占模式，能够在支持wasapi的系统中获得较低的延迟。
 * 更好的ASIO支持， 现在在ASIO的设置面板中修改属性，Freepiano中的属性也会直接改变。

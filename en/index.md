@@ -12,7 +12,7 @@ FreePiano is a opensource software that can let you play music with your compute
 <img src="{{ site.baseurl }}/en/img/screenshot.jpg"/>
 </div>
 
-Download lastest version: [FreePiano 2.0](http://sourceforge.net/projects/freepiano/files/freepiano_2.0.zip)
+Download lastest version: [FreePiano 2.1.1](http://sourceforge.net/projects/freepiano/files/freepiano_2.1.1.zip)
 
 ## Features of FreePiano:
 1. Completely free, you do not need to purchase to use all the features.
@@ -22,7 +22,22 @@ Download lastest version: [FreePiano 2.0](http://sourceforge.net/projects/freepi
 5. Multi sets of keyboard layout can be switched anytime during play.
 6. Export your song to mp4 directly.
 
-## 2013-09-28 FreePiano 2.0
+## 2013-11-18 Freepiano 2.1.1
+* Fixed a bug that ASIO driver can not load.
+* Fixed a crash bug when check new version failed.
+* Fixed a spelling mistake in config dialog.
+
+## 2013-11-01 Freepiano 2.1
+* New lock mouse command, can use mouse as sustain pedal.
+* New Fluidsynth SF2 synthesizer plugin.
+* New background mode.
+* New Mini mode, displays caption only.
+* Change transpose to key signature on piano panel.
+* Fixed a bug that MIDI input is not recorded.
+* Fixed a bug that select input channel does not work.
+* VSTi plug-in compatibility fixes.
+
+## 2013-09-28 Freepiano 2.0
 * New user interface.
 * New Execlusive mode when using WASAPI output.
 * Supports sync confiuation with ASIO driver.
