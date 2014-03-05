@@ -12,7 +12,21 @@ FreePiano is a opensource software that can let you play music with your compute
 <img src="{{ site.baseurl }}/en/img/screenshot.jpg"/>
 </div>
 
-Download lastest version: [FreePiano 2.1.1](http://sourceforge.net/projects/freepiano/files/freepiano_2.1.1.zip)
+Download Freepiano:
+
+<table style="width:350px">
+<thead>
+<tr>
+<td colspan=2>Filename</td>
+</tr>
+</thead>
+<tr>
+<td>freepiano_2.2_win32.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win32.zip">Download</a></td>
+</tr><tr>
+<td>freepiano_2.2_win64.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win64.zip">Download</a></td>
+</tr></table>
 
 ## Features of FreePiano:
 1. Completely free, you do not need to purchase to use all the features.
@@ -21,6 +35,25 @@ Download lastest version: [FreePiano 2.1.1](http://sourceforge.net/projects/free
 4. You can define any key on the keyboard and display functions.
 5. Multi sets of keyboard layout can be switched anytime during play.
 6. Export your song to mp4 directly.
+
+## 2014-03-06 Freepiano 2.2
+* New 'Sequence' command.
+* Support both sharp and flat modifier on notes.
+* Export 'mid' file is now supported.
+* New 'SendKey' command, smuliates key press to another program. <br>
+  Adds a preset to control windows default photo viewer pages.
+* New 'Menu' command, activates main menu on keyboard.
+* New 'Release' value change modifier, restores to current value before any key is released.<br>
+  Adds a preset to simulate sustain pedal.
+* New 'ChannelVolume' and 'ChannelPan' command.
+* 'Pitch' command now takes a 'Smooth' value modifier.
+* New 'Loop' option on playback setting.
+* New 'Fullscreen when maximized' option on GUI setting.
+* Can reset to default layout in other key signatures (No transpose).
+* Random velocity option is now saved.
+* Displays subfolders in keymap menu.
+
+* Fixed a bug on input channel select setting.
 
 ## 2013-11-18 Freepiano 2.1.1
 * Fixed a bug that ASIO driver can not load.

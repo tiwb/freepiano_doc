@@ -12,9 +12,22 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 <img src="{{ site.baseurl }}/cn/img/screenshot.jpg"/>
 </div>
 
-最新版本 Freepiano 2.1.1 ：
-[SourceForge下载](http://sourceforge.net/projects/freepiano/files/freepiano_2.1.1.zip) | 
-[百度网盘下载](http://pan.baidu.com/s/1d3MlV)
+下载地址：
+<table style="width:450px">
+<thead>
+<tr>
+<td colspan=3>文件名</td>
+</tr>
+</thead>
+<tr>
+<td>freepiano_2.2_win32.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win32.zip">SourceForge下载</a></td>
+<td><a href="http://pan.baidu.com/s/1eQmT5BG">Baidu下载</a></td>
+</tr><tr>
+<td>freepiano_2.2_win64.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win64.zip">SourceForge下载</a></td>
+<td><a href="http://pan.baidu.com/s/1eQ9ofD4">Baidu下载</a></td>
+</tr></table>
 
 ## FreePiano有什么特点？
 1. 完全免费的，您不需要购买就可以使用全部的功能。
@@ -23,6 +36,25 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 4. 可以定义键盘上任意一个按键的功能与显示。
 5. 多套键盘配置可以在演奏中任意切换。
 6. 可将录制的乐曲导出成视频MP4文件。
+
+## 2014-03-06 Freepiano 2.2
+* 添加“序列”命令，可以在不切换分组的情况下定义每次按下一个键的功能。
+* 按键绑定现在同时支持升记号和降记号。
+* 同时发布64位版本。
+* 添加了MID文件导出功能。
+* 添加了“发送按键”命令，可以向别的程序发送按键，预设中添加了默认对于Windows照片查看器的翻页绑定。
+* 添加了“菜单”命令，可以使用键盘激活主菜单，给大部分菜单加入了快捷键。
+* 添加了一个“释放”改值法，可以在任何一个按键抬起后将值恢复，用于更精确地模拟踏板。
+* 添加了“通道音量”和“通道声像”命令，在演奏菜单中也可以更改音量和声像。
+* 添加了“弯音”命令的“平滑”设置。
+* 添加了循环播放的功能。
+* 添加了一个“最大化时全屏”的选项，可以在最大化时盖住任务栏。
+* 恢复默认布局是可以恢复成固定唱名布局（不使用变调功能）。
+* 随机力度的参数会被保存到配置文件中。
+* 键盘布局菜单增加对子目录的支持。
+
+* 修正通道选择界面输入通道选择的bug。
+* 修正按键配置窗口使用某些输入法是中文出现乱码的bug。
 
 ## 2013-11-18 Freepiano 2.1.1
 * 修复了ASIO输出不能工作的问题。
