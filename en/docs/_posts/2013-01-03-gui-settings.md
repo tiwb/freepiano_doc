@@ -11,14 +11,9 @@ FreePiano uses notation by default, if you are not suited, you can custom notes 
 2. Fixed roll method, notation indicates.
 3. Musical alphabet method, note name indicates.
 
-<div class="note question">
-<h5>Why there are only sharp notes?</h5>
-<p>In MIDI, the note is represented by a number from 0-127, based on figures in FreePiano expressed within the same note, while the melody is just a pitch shift, FreePiano did not distinguish between the size of the song tune, so only can be used consistently sharp symbol to represent notes.</p>
-</div>
-
 ## Changing the type of note display
 
-To modify how the note is displayed, select `Config -> Options -> GUI`
+To modify how the note is displayed, first click on the `Option` icon, then select `GUI`
 
 ![GUI Settings]({{ site.baseurl }}/en/docs/img/gui_setting.png)
 
