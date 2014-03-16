@@ -13,20 +13,20 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 </div>
 
 下载地址：
-<table style="width:450px">
+<table style="width:500px">
 <thead>
 <tr>
 <td colspan=3>文件名</td>
 </tr>
 </thead>
 <tr>
-<td>freepiano_2.2_win32.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win32.zip">SourceForge下载</a></td>
-<td><a href="http://pan.baidu.com/s/1eQmT5BG">Baidu下载</a></td>
+<td>freepiano_2.2.1_win32.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win32.zip">SourceForge下载</a></td>
+<td><a href="http://pan.baidu.com/s/1bnF0usB">Baidu下载</a></td>
 </tr><tr>
-<td>freepiano_2.2_win64.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win64.zip">SourceForge下载</a></td>
-<td><a href="http://pan.baidu.com/s/1eQ9ofD4">Baidu下载</a></td>
+<td>freepiano_2.2.1_win64.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win64.zip">SourceForge下载</a></td>
+<td><a href="http://pan.baidu.com/s/1mg0UQSg">Baidu下载</a></td>
 </tr></table>
 
 ## FreePiano有什么特点？
@@ -36,6 +36,14 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 4. 可以定义键盘上任意一个按键的功能与显示。
 5. 多套键盘配置可以在演奏中任意切换。
 6. 可将录制的乐曲导出成视频MP4文件。
+
+## 2014-03-14 Freepiano 2.2.1
+* 音源加载错误时会提示详细信息。
+* 添加一个空音频输出。
+* 如果按键上同时绑定了命令和音符，会优先显示音符。
+* 修正LYT文件读取错误的Bug。
+* 修正序列标签没有被保存到fpm中的Bug。
+* 添加了一些示范曲。
 
 ## 2014-03-06 Freepiano 2.2
 * 添加“序列”命令，可以在不切换分组的情况下定义每次按下一个键的功能。

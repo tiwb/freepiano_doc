@@ -21,11 +21,11 @@ Download Freepiano:
 </tr>
 </thead>
 <tr>
-<td>freepiano_2.2_win32.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win32.zip">Download</a></td>
+<td>freepiano_2.2.1_win32.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win32.zip">Download</a></td>
 </tr><tr>
-<td>freepiano_2.2_win64.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2_win64.zip">Download</a></td>
+<td>freepiano_2.2.1_win64.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win64.zip">Download</a></td>
 </tr></table>
 
 ## Features of FreePiano:
@@ -35,6 +35,14 @@ Download Freepiano:
 4. You can define any key on the keyboard and display functions.
 5. Multi sets of keyboard layout can be switched anytime during play.
 6. Export your song to mp4 directly.
+
+## 2014-03-14 Freepiano 2.2.1
+* Show detailed error when failed to load VST plugin.
+* Adds a null audio output.
+* Displays note first in muti-bind commands.
+* Fixed a bug in LYT key map.
+* Fixed a bug that sequence label did not saved in fpm file.
+* Adds lots of demo songs.
 
 ## 2014-03-06 Freepiano 2.2
 * New 'Sequence' command.
