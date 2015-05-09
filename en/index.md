@@ -22,10 +22,10 @@ Download Freepiano:
 </thead>
 <tr>
 <td>freepiano_2.2.1_win32.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win32.zip">Download</a></td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2_win32.zip">Download</a></td>
 </tr><tr>
 <td>freepiano_2.2.1_win64.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win64.zip">Download</a></td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2_win64.zip">Download</a></td>
 </tr></table>
 
 ## Features of FreePiano:
@@ -35,6 +35,12 @@ Download Freepiano:
 4. You can define any key on the keyboard and display functions.
 5. Multi sets of keyboard layout can be switched anytime during play.
 6. Export your song to mp4 directly.
+
+
+## 2015-05-09 Freepiano 2.2.2
+* MID file can be opened directly in freepiano.
+* Fix a bug that output type did not save correctly on 64bit version.
+* Fix a crash bug when using some VST plugins when exit.
 
 ## 2014-03-14 Freepiano 2.2.1
 * Show detailed error when failed to load VST plugin.

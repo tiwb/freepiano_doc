@@ -21,12 +21,12 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 </thead>
 <tr>
 <td>freepiano_2.2.1_win32.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win32.zip">SourceForge下载</a></td>
-<td><a href="http://pan.baidu.com/s/1bnF0usB">Baidu下载</a></td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2_win32.zip">SourceForge下载</a></td>
+<td><a href="http://pan.baidu.com/s/1eQ91k2m">Baidu下载</a></td>
 </tr><tr>
 <td>freepiano_2.2.1_win64.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.1_win64.zip">SourceForge下载</a></td>
-<td><a href="http://pan.baidu.com/s/1mg0UQSg">Baidu下载</a></td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2_win64.zip">SourceForge下载</a></td>
+<td><a href="http://pan.baidu.com/s/1dDIWFPB">Baidu下载</a></td>
 </tr></table>
 
 ## FreePiano有什么特点？
@@ -36,6 +36,11 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 4. 可以定义键盘上任意一个按键的功能与显示。
 5. 多套键盘配置可以在演奏中任意切换。
 6. 可将录制的乐曲导出成视频MP4文件。
+
+## 2015-05-09 Freepiano 2.2.2
+* 添加了打开MIDI文件的功能。
+* 修复了64位下输出设备保存错误的Bug。
+* 修复了在关闭软件时一些音源会出错的Bug。
 
 ## 2014-03-14 Freepiano 2.2.1
 * 音源加载错误时会提示详细信息。
