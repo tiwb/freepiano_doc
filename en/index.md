@@ -21,11 +21,11 @@ Download Freepiano:
 </tr>
 </thead>
 <tr>
-<td>freepiano_2.2.1_win32.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2_win32.zip">Download</a></td>
+<td>freepiano_2.2.2.1_win32.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2.1_win32.zip">Download</a></td>
 </tr><tr>
-<td>freepiano_2.2.1_win64.zip</td>
-<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2_win64.zip">Download</a></td>
+<td>freepiano_2.2.2.1_win64.zip</td>
+<td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2.1_win64.zip">Download</a></td>
 </tr></table>
 
 ## Features of FreePiano:
