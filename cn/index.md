@@ -16,17 +16,15 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 <table style="width:500px">
 <thead>
 <tr>
-<td colspan="3">文件名</td>
+<td colspan="2">文件名</td>
 </tr>
 </thead>
 <tr>
 <td>freepiano_2.2.2.1_win32.zip</td>
 <td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2.1_win32.zip">SourceForge下载</a></td>
-<td><a href="http://freepiano.tiwb.com/downloads/freepiano_2.2.2.1_win32.zip">本地下载</a></td>
 </tr><tr>
 <td>freepiano_2.2.2.1_win64.zip</td>
 <td><a href="http://sourceforge.net/projects/freepiano/files/freepiano_2.2.2.1_win64.zip">SourceForge下载</a></td>
-<td><a href="http://freepiano.tiwb.com/downloads/freepiano_2.2.2.1_win64.zip">本地下载</a></td>
 </tr></table>
 
 ## FreePiano有什么特点？
