@@ -16,7 +16,7 @@ FreePiano是一款使用电脑键盘演奏音乐的开源软件。
 <table style="width:500px">
 <thead>
 <tr>
-<td colspan=3>文件名</td>
+<td colspan="3">文件名</td>
 </tr>
 </thead>
 <tr>

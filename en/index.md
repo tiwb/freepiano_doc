@@ -17,7 +17,7 @@ Download Freepiano:
 <table style="width:350px">
 <thead>
 <tr>
-<td colspan=2>Filename</td>
+<td colspan="2">Filename</td>
 </tr>
 </thead>
 <tr>
